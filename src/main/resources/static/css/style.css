@@ -1,0 +1,20 @@
+h1 {
+    background-color: white;
+    font-weight: bold;
+}
+.profile-image-container {
+    background-color: white; /* White background for the profile image */
+    border-radius: 50%; /* Rounded background */
+    display: inline-block; /* Ensures proper sizing */
+    padding: 15px; /* Padding around the image */
+}
+.profile-image {
+    border-radius: 50%;
+    height: 250px; /* Increased size */
+    width: 250px; /* Increased size */
+}
+.btn-lg {
+    width: 350px; /* Set button width */
+    height: 100px; /* Set button height */
+    font-size: 1.75rem; /* Increased font size */
+}
