@@ -1,20 +1,71 @@
+body {
+    background-image: url("../images/tree.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;
+}
+.container {
+    max-width: 920px;
+}
+
+.action {
+    width: 150px;
+    background-color: purple;
+}
+
 h1 {
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.8);
     font-weight: bold;
+    padding: 10px;
+    border-radius: 10px;
 }
+
 .profile-image-container {
-    background-color: white; /* White background for the profile image */
-    border-radius: 50%; /* Rounded background */
-    display: inline-block; /* Ensures proper sizing */
-    padding: 15px; /* Padding around the image */
+    background-color: white;
+    border-radius: 50%;
+    padding: 20px;
+    margin-bottom: 40px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Soft shadow for depth */
 }
+
 .profile-image {
     border-radius: 50%;
-    height: 250px; /* Increased size */
-    width: 250px; /* Increased size */
+    height: 250px;
+    width: 250px;
 }
+
 .btn-lg {
-    width: 350px; /* Set button width */
-    height: 100px; /* Set button height */
-    font-size: 1.75rem; /* Increased font size */
+    font-weight: bold;
+    width: 100%; /* Full width for mobile screens */
+    height: 100px;
+    font-size: 2rem;
+    border-radius: 20px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3); /* Button shadow */
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.btn-lg:hover {
+    cursor: pointer;
+    transform: translateY(-3px); /* Button hover effect */
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.4); /* Shadow on hover */
+}
+
+/* Responsive layout */
+@media (min-width: 768px) {
+    .btn-lg {
+        width: 500px;
+        height: 120px;
+    }
+}
+
+@media (max-width: 767px) {
+    .profile-image {
+        height: 200px;
+        width: 200px;
+    }
+
+    .btn-lg {
+        font-size: 1.5rem;
+    }
 }
