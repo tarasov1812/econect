@@ -1,4 +1,4 @@
-**<h1>The 2024 NASA Space Apps Challenge</h1>**
+**<h1>🚀 The 2024 NASA Space Apps Challenge 🛰️</h1>**
 
 **Team:** Changing voices
 
