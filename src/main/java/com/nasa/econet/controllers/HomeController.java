@@ -12,7 +12,7 @@ public class HomeController {
         return "dataCO2";
     }
 
-    @GetMapping("/profile")
+    @GetMapping("/")
     public String userProfile(Model model) {
         // Sample fictional user data
         User user = new User();
