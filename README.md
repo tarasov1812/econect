@@ -6,10 +6,14 @@ The 2024 NASA Space Apps Challenge
 
 Challange: Tell Us a Climate Story!
 
+![Uploading image.png…]()
+
+
 **How to launch the APP:**
 1. mvn clean install
 2. cd target
 3. java -jar econet-0.0.1-SNAPSHOT.jar
+4. Go to - http://localhost:8080
 
 **DATOS USADOS:**
 1. Emisiones y absorciones anuales globales de CO2: "Presupuestos de CO₂ de arriba hacia abajo del OCO-2 MIP
