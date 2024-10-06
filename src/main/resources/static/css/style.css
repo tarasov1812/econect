@@ -10,7 +10,7 @@ body {
 }
 
 .wblock {
-    margin-top: 40px;
+    margin-top: 250px; !important;
     background-color: white;
     border-radius: 20px;
     border: 1px black solid;
@@ -22,11 +22,13 @@ body {
 
 .fd {
     font-weight: bold;
-    font-size: 14px;
+    padding: 5px;
+    font-size: 24px;
 }
 
 .od {
-    font-size: 14px;
+    font-size: 24px;
+    padding: 5px;
 }
 
 .action {
