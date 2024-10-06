@@ -1,13 +1,16 @@
 **<h1>The 2024 NASA Space Apps Challenge</h1>**
 
-**Team:** Changin voices
+**Team:** Changing voices
 
-**Members:** Lorena del Carmen Requena Ponce, Osthailyd Bautista Areiza, Carmela García Díaz, Arun Cardenas Saenz, Alexander Tarasov, Lucía Gómez Mancebo.
+**Members:** Lorena del Carmen Requena Ponce, [Osthailyd Bautista Areiza](https://github.com/Bautistao2), Carmela García Díaz, Arun Cardenas Saenz, Alexander Tarasov, Lucía Gómez Mancebo.
 
 **Challange:** Tell Us a Climate Story!
 
 **Description:** Our project, EcoNect, is based on raising awareness about the impact of greenhouse gases on our planet. This will be done through an application. When opened, the app will display a 3-minute video that tells the story of our planet. It shows how the Earth has been deteriorating and, as a last hope, the Earth asks for help from a little girl.
 This girl represents hope for change and shows that we still have time to save the planet. As a solution, EcoNet is presented as a social network where you can discover ways to help the environment. It aims to promote sustainable development and make it accessible to all audiences.
+
+**<h2>VIDEO:</h2>**
+`[click here](https://www.canva.com/design/DAGSsUE3ksA/MzQaJ9CDwACEM-q_lEgWHg/watch?utm_content=DAGSsUE3ksA&amp;utm_campaign=share_your_design&amp;utm_medium=link&amp;utm_source=shareyourdesignpanel)
 
 **<h2>Application Screenshots:</h2>**
 ![MainPage](screenshots/screen1.png)
