@@ -1,9 +1,12 @@
 **<h1>The 2024 NASA Space Apps Challenge</h1>**
 
-**Challange:** Tell Us a Climate Story!
+**<h3>Challange:** Tell Us a Climate Story!</h3>
 
-**Description:** EcoNet is an app designed to raise awareness about the impact of greenhouse gases. It starts with a 3-minute video showing Earth's deterioration, where the planet asks a little girl—symbolizing hope—for help. EcoNet serves as a social network promoting sustainable development for everyone.
+**<h3>Description:** Our project, EcoNect, is based on raising awareness about the impact of greenhouse gases on our planet. This will be done through an application. When opened, the app will display a 3-minute video that tells the story of our planet. It shows how the Earth has been deteriorating and, as a last hope, the Earth asks for help from a little girl.
+This girl represents hope for change and shows that we still have time to save the planet. As a solution, EcoNet is presented as a social network where you can discover ways to help the environment. It aims to promote sustainable development and make it accessible to all audiences.</h3>
 
+
+**<h3>Application Screenshots</h3>**
 ![MainPage](screenshots/screen1.png)
 ![MainPage](screenshots/screen2.png)
 
