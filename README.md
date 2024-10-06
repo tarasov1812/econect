@@ -17,14 +17,14 @@ This girl represents hope for change and shows that we still have time to save t
 ![MainPage](screenshots/screen2.png)
 
 
-**How to launch the APP:**
+**<h2>How to launch the APP:</h2>**
 1. mvn clean install
 2. cd target
 3. java -jar econet-0.0.1-SNAPSHOT.jar
 4. Go to - http://localhost:8080
 
-**DATA USED IN THE APP:**
-1. Global Annual CO2 Emissions and Removals: "OCO-2 MIP Top-down CO₂ Budgets"
+**<h2>DATA USED IN THE APP:</h2>**
+<h3>1. Global Annual CO2 Emissions and Removals: "OCO-2 MIP Top-down CO₂ Budgets"</h3>
    link: [https://earth.gov/ghgcenter/data-catalog/oco2-mip-co2budget-yeargrid-v1](https://earth.gov/ghgcenter/data-catalog/oco2-mip-co2budget-yeargrid-v1)
    Temporal Extent: 2015 – 2020
    Temporal Resolution: Annual
@@ -34,7 +34,7 @@ This girl represents hope for change and shows that we still have time to save t
    Data Type: Research
    Data Latency: N/A
 
-2. Global Methane Emissions: "TM5-4DVar Isotopic CH₄ Inverse Fluxes"
+<h3>2. Global Methane Emissions: "TM5-4DVar Isotopic CH₄ Inverse Fluxes"</h3>
    link: [https://earth.gov/ghgcenter/data-catalog/tm54dvar-ch4flux-monthgrid-v1](https://earth.gov/ghgcenter/data-catalog/tm54dvar-ch4flux-monthgrid-v1)
    Temporal Extent: 1976 - 2023, varies by station
    Temporal Resolution: The GHG Center provides only daily and monthly means for continuous measurements; temporal resolution varies by station for non-continuous measurements, (can be daily up to weekly)
@@ -43,7 +43,7 @@ This girl represents hope for change and shows that we still have time to save t
    Data Units: Parts CH₄ per billion (ppb)
    Data Type: Operational
    Data Latency: Updated annually
-3. Global Carbon Fluxes: "MiCASA Land Carbon Flux"
+<h3>3. Global Carbon Fluxes: "MiCASA Land Carbon Flux"</h3>
    link: [https://earth.gov/ghgcenter/data-catalog/micasa-carbonflux-grid-v1](https://earth.gov/ghgcenter/data-catalog/micasa-carbonflux-grid-v1)
    Temporal Extent: January 1, 2001 - December 31, 2023
    Temporal Resolution: Daily and Monthly Averages
