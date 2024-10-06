@@ -10,10 +10,10 @@
 This girl represents hope for change and shows that we still have time to save the planet. As a solution, EcoNet is presented as a social network where you can discover ways to help the environment. It aims to promote sustainable development and make it accessible to all audiences.
 
 **<h2>VIDEO:</h2>**
-`[Watch the video](https://www.canva.com/design/DAGSsUE3ksA/MzQaJ9CDwACEM-q_lEgWHg/watch?utm_content=DAGSsUE3ksA&amp;utm_campaign=share_your_design&amp;utm_medium=link&amp;utm_source=shareyourdesignpanel)
+[Watch the video](https://www.canva.com/design/DAGSsUE3ksA/MzQaJ9CDwACEM-q_lEgWHg/watch?utm_content=DAGSsUE3ksA&amp;utm_campaign=share_your_design&amp;utm_medium=link&amp;utm_source=shareyourdesignpanel)
 
 **<h2>Application Design:</h2>**
-![MainPage]('design/Mobile Design.pdf')
+[Watch the design](design/mobile_design.pdf')
 
 **<h2>Application Screenshots:</h2>**
 ![MainPage](screenshots/screen1.png)
