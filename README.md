@@ -7,6 +7,7 @@ The 2024 NASA Space Apps Challenge
 Challange: Tell Us a Climate Story!
 
 ![MainPage](screenshots/screen1.png)
+![MainPage](screenshots/screen2.png)
 
 
 **How to launch the APP:**
